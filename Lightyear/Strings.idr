@@ -8,6 +8,7 @@
 module Lightyear.Strings
 
 import public Control.Monad.Identity
+import Data.Fin
 
 import Lightyear.Core
 import Lightyear.Combinators
